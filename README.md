@@ -1,4 +1,9 @@
 ![image_2022-10-04_104201326](https://user-images.githubusercontent.com/84889682/193723066-228d5f3c-c564-418a-86da-acb0d92d10b0.png)
+
+
+This is a simple weather forecasting app made by react. It is a weather channel which can provide an accurate weather information fetched from weatherAPI.
+Everyone can benefit greatly from weather predictions. If you are knowledgeable about the weather, you may properly organize your strategy, achieve success at work, and have a better life!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
